@@ -1,2 +1,2 @@
-DEPLOY = "💡 DEPLOY NOW 💡"
-HEROKU = "https://youtu.be/lI71HsWzTKE"
+DEPLOY = " ⚜️Main Group ⚜️"
+HEROKU = "https://t.me/malayayalies"
