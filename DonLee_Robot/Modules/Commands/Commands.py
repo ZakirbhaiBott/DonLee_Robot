@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             Mo_Tech_YT.MO_TECH_YT_02
                                 (
-                                    DEPLOY, url=HEROKU
+                                    'Main Group 👥', url='https://t.me/malayayalies'
                                 )
                         ]
                     ]
@@ -73,17 +73,17 @@ async def start(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '📢Update Channel', url='t.me/Mo_Tech_YT'
+                              '📢Update Channel', url='t.me/malayalam2'
                           ),
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              '💡More Botz', url='t.me/MT_Botz'
+                              '[🅜🅒] Movie Collection', url='https://t.me/minnal_murali77'
                           )
                   ],
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url=HEROKU
+                              'Series🍿', url='https://t.me/netflixorgi'
                           )
                   ],
                   [
@@ -112,7 +112,7 @@ async def help(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url=HEROKU
+                              'Backup Group 👥', url='https://t.me/malayalam_cinmaa'
                           )
                   ],
                   [   
@@ -145,7 +145,7 @@ async def about(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url=HEROKU
+                              '⚜️ Main Channel ⚜️', url='https://t.me/joinchat/Fhcssgw5H8wwMDBl'
                           )
                   ],
                   [
