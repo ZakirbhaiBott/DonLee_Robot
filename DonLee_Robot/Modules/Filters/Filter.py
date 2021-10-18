@@ -202,7 +202,7 @@ async def auto_filter(bot, update):
 
     if len(results) == 0 : # double check
         buttons = [[
-                 InlineKeyboardButton("🔍 Search Spelling 🔎",url=f"https://www.google.com/search?q={query}")
+                 InlineKeyboardButton("🔍 Search Spelling 🔎",url=f"https://www.google.com/search?q={query}+movie")
                  ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await bot.send_message(
