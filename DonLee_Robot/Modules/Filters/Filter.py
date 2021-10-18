@@ -207,7 +207,7 @@ async def auto_filter(bot, update):
         reply_markup = InlineKeyboardMarkup(buttons)
         await bot.send_message(
         chat_id=update.chat.id,
-        text=f"<b>Sorry I couldn't find anything for {the_query}🤧\nതാഴെ ഉള്ള ബട്ടണിൽ ക്ലിക്ക് ചെയ്ത് ഗൂഗിളിൽ പോയി Correct Spelling കണ്ടുപിടിച്ച ശേഷം അത് കോപ്പി ചെയ്ത് ഇവിടെ Paste ചെയ്യുക.</b> 👇🏽",
+        text=f"Sorry I couldn't find anything for {the_query}🤧\n\nതാഴെ ഉള്ള ബട്ടണിൽ ക്ലിക്ക് ചെയ്ത് ഗൂഗിളിൽ പോയി Correct Spelling കണ്ടുപിടിച്ച ശേഷം അത് കോപ്പി ചെയ്ത് ഇവിടെ Paste ചെയ്യുക.</b> 👇🏽",
         reply_markup=reply_markup,
         parse_mode="md",
         reply_to_message_id=update.message_id)
